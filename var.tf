@@ -1,6 +1,6 @@
 variable "resource_count" {
   description = "Number of resources to create"
   type        = number
-  default     = 7
+  default     = 5
 }
 
